@@ -10,6 +10,4 @@ import lombok.NoArgsConstructor;
 public class OrderItemDTO {
     private Long itemId;
     private int quantity;
-    private String orderSignature;
-
 }

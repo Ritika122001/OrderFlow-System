@@ -46,8 +46,6 @@ public class Order {
 
     private String email;
 
-    private String orderSignature;
-
     @CreatedDate
     private LocalDateTime orderDate;
 
